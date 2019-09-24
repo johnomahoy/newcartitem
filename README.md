@@ -7,7 +7,7 @@ that is being use for when a customer add items to a cart.
 These are the expected data from the user:websiteUserID\
                                             itemimageURL\
                                             itemTitle\
-                                            email\
+                                            email
                              
  Developed by: Benjie
  
